@@ -9,10 +9,6 @@ To pass the Git-101 challenge you need to get a Pull Request merged into this re
 Acceptance Criteria:
 
 1. Create a new branch in [this repo](https://github.com/wedoforce/students) called `student/<first name>-<last name>`. E.g. `student/nikita-chursin`
-Created branch student/anna-blumenkrantz
-1. Pull request (PR) is raised against the `main` branch 
-PR is raised from repo 
+1. Pull request (PR) is raised against the `main` branch
 1. The PR contains the file [students/students1.list](https://github.com/wedoforce/students/blob/main/students/students1.list) with a new line added. This line should consist of your first and last names and your email. E.g.: `Nikita Chursin,nikita@salesforcecraft.dev`
-Added First name, last name, email
-1. The PR must be merged to the `main` branch 
-No action before approve
+1. The PR must be merged to the `main` branch
