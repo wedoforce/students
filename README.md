@@ -1,3 +1,7 @@
+Hi 
+My name is Azamat
+I try to learn this course 
+
 # Students Repo
 
 This is a repos with students lists for Git-101 challenge.
